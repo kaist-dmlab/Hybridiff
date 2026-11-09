@@ -71,7 +71,7 @@ torchrun --nproc_per_node=2 examples/generate_hybridiff_coco.py \
   --L_slope 12 --eps_slope 0.0004 --k 5 --tau_cap 15
 
 # Or use the provided shell script
-bash examples/run_hybridiff_coco.sh
+bash examples/run_sdxl_hybridiff_coco.sh
 ```
 
 ### SD3 on COCO
