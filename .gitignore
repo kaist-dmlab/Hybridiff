@@ -80,3 +80,4 @@ nccl/
 *.prof
 *.lprof
 
+r.sh
