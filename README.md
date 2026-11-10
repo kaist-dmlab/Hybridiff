@@ -140,7 +140,7 @@ python examples/compute_metric.py \
 - **`image_size`**: Output image resolution (default: 1024)
 - **`scheduler`**: Noise scheduler type (for SDXL: "euler", "dpm-solver", or "ddim" -> default: "ddim")
 
-## Structure
+## Structure  
 
 ```
 hybridiff/
